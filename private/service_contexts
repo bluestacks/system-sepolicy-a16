@@ -235,6 +235,7 @@ biometric                                 u:object_r:biometric_service:s0
 bluetooth_manager                         u:object_r:bluetooth_manager_service:s0
 bluetooth                                 u:object_r:bluetooth_service:s0
 broadcastradio                            u:object_r:broadcastradio_service:s0
+bstfilterapps                             u:object_r:bstfilterapps_service:s0
 bugreport                                 u:object_r:bugreport_service:s0
 cacheinfo                                 u:object_r:cacheinfo_service:s0
 carrier_config                            u:object_r:radio_service:s0
